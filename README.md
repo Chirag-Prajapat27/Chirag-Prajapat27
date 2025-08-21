@@ -25,7 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/shubhajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhajit" height="30" width="40" /></a>  -->
-<a href="https://linkedin.com/in/chirag-prajapat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subh12" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@chiragprajapat27" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="chiragprajapat27"  height="60" width="45" /></a>
+<a href="https://linkedin.com/in/chirag-prajapat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirag-prajapat1" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/subhzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhzt" height="30" width="40" /></a> -->
 <!-- <a href="https://www.behance.net/shubhajitbasak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shubhajitbasak" height="30" width="40" /></a> -->
 </p>
