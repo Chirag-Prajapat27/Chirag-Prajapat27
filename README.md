@@ -83,7 +83,6 @@
 ![Chirag-Prajapat27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chirag-Prajapat27&theme=default&hide_border=true)
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-Prajapat27&theme=dark&hide_border=false" /></p> -->
 
-
 <!--👋 Hey there! I'm a Passionate **Android & Mobile Developer** (3+ YOE)
 
 📱 I specialize in building sleek, high-performance Android apps using Kotlin, Java, and Jetpack Compose — with a strong focus on clean architecture and user experience.
@@ -113,5 +112,4 @@
 
 ⚡ Fun fact: I break my own builds... just to fix them better. 😄☠️ -->
 
-
-**Connect with me:**
+**Connect with me**
