@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center"> Hi👋 I'm Chirag Prajapat</h1>
-<h4 align="center"> I'm a Passionate Android & Mobile Developer (3+ YOE)</h4>
+<h4 align="center"> I'm a Passionate Android & Mobile Developer (3.5+ YOE)</h4>
 <h3 align="center">📱 I specialize in building sleek, high-performance Android apps using Kotlin, Java, and Jetpack Compose — with a strong focus on clean architecture and user experience.</h3>
 <br>
 <br>
